@@ -1,6 +1,5 @@
-Aqui estão todas as perguntas com as respostas correspondentes:
 
----
+
 
 **3 - O que é a tag `<div>` e a tag `<span>` no HTML?**
 
@@ -96,6 +95,4 @@ No JavaScript, `undefined` significa que uma variável foi declarada, mas ainda 
 
 Em JavaScript, um objeto é uma estrutura que permite armazenar valores e funções organizados em propriedades, que são pares de chave e valor. Ele é usado para representar entidades do mundo real ou agrupar informações relacionadas em um único elemento. Um objeto é declarado usando chaves `{}` e suas propriedades são definidas dentro delas. Por exemplo, podemos criar um objeto `pessoa` com as propriedades `nome`, `idade` e uma função `saudacao`, que permite acessar os dados ou executar ações relacionadas a esse objeto.
 
----
 
-Se precisar de mais alguma coisa ou ajustes, me avise!
